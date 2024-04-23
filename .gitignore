@@ -1,4 +1,6 @@
 bin/
 build/
+lib/
 lib64/
 include/
+app.spec
