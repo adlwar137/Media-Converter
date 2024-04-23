@@ -2,5 +2,9 @@ bin/
 build/
 lib/
 lib64/
+lib64
 include/
 app.spec
+pyvenv.cfg
+
+test.mp4
